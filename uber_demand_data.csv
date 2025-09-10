@@ -1,0 +1,1096 @@
+Date,City,Demand,WeatherCondition,DayOfWeek
+2024-07-01,New York,624,Snowy,Monday
+2024-07-01,San Francisco,761,Cloudy,Monday
+2024-07-01,Chicago,413,Snowy,Monday
+2024-07-02,New York,482,Stormy,Tuesday
+2024-07-02,San Francisco,744,Cloudy,Tuesday
+2024-07-02,Chicago,320,Stormy,Tuesday
+2024-07-03,New York,1197,Sunny,Wednesday
+2024-07-03,San Francisco,793,Cloudy,Wednesday
+2024-07-03,Chicago,441,Snowy,Wednesday
+2024-07-04,New York,989,Windy,Thursday
+2024-07-04,San Francisco,641,Rainy,Thursday
+2024-07-04,Chicago,818,Sunny,Thursday
+2024-07-05,New York,900,Windy,Friday
+2024-07-05,San Francisco,856,Cloudy,Friday
+2024-07-05,Chicago,568,Rainy,Friday
+2024-07-06,New York,1320,Sunny,Saturday
+2024-07-06,San Francisco,783,Windy,Saturday
+2024-07-06,Chicago,979,Sunny,Saturday
+2024-07-07,New York,772,Snowy,Sunday
+2024-07-07,San Francisco,955,Cloudy,Sunday
+2024-07-07,Chicago,650,Rainy,Sunday
+2024-07-08,New York,597,Snowy,Monday
+2024-07-08,San Francisco,690,Windy,Monday
+2024-07-08,Chicago,372,Stormy,Monday
+2024-07-09,New York,953,Windy,Tuesday
+2024-07-09,San Francisco,367,Stormy,Tuesday
+2024-07-09,Chicago,376,Stormy,Tuesday
+2024-07-10,New York,494,Stormy,Wednesday
+2024-07-10,San Francisco,847,Cloudy,Wednesday
+2024-07-10,Chicago,397,Snowy,Wednesday
+2024-07-11,New York,1022,Cloudy,Thursday
+2024-07-11,San Francisco,478,Snowy,Thursday
+2024-07-11,Chicago,705,Cloudy,Thursday
+2024-07-12,New York,1056,Cloudy,Friday
+2024-07-12,San Francisco,448,Snowy,Friday
+2024-07-12,Chicago,644,Windy,Friday
+2024-07-13,New York,1167,Windy,Saturday
+2024-07-13,San Francisco,806,Rainy,Saturday
+2024-07-13,Chicago,427,Stormy,Saturday
+2024-07-14,New York,939,Rainy,Sunday
+2024-07-14,San Francisco,1028,Sunny,Sunday
+2024-07-14,Chicago,775,Cloudy,Sunday
+2024-07-15,New York,876,Windy,Monday
+2024-07-15,San Francisco,801,Cloudy,Monday
+2024-07-15,Chicago,584,Rainy,Monday
+2024-07-16,New York,488,Stormy,Tuesday
+2024-07-16,San Francisco,672,Windy,Tuesday
+2024-07-16,Chicago,715,Cloudy,Tuesday
+2024-07-17,New York,812,Windy,Wednesday
+2024-07-17,San Francisco,836,Sunny,Wednesday
+2024-07-17,Chicago,404,Snowy,Wednesday
+2024-07-18,New York,956,Windy,Thursday
+2024-07-18,San Francisco,412,Stormy,Thursday
+2024-07-18,Chicago,654,Cloudy,Thursday
+2024-07-19,New York,812,Windy,Friday
+2024-07-19,San Francisco,899,Sunny,Friday
+2024-07-19,Chicago,370,Stormy,Friday
+2024-07-20,New York,636,Stormy,Saturday
+2024-07-20,San Francisco,781,Windy,Saturday
+2024-07-20,Chicago,706,Windy,Saturday
+2024-07-21,New York,667,Snowy,Sunday
+2024-07-21,San Francisco,572,Snowy,Sunday
+2024-07-21,Chicago,714,Rainy,Sunday
+2024-07-22,New York,999,Cloudy,Monday
+2024-07-22,San Francisco,681,Windy,Monday
+2024-07-22,Chicago,358,Stormy,Monday
+2024-07-23,New York,761,Rainy,Tuesday
+2024-07-23,San Francisco,743,Cloudy,Tuesday
+2024-07-23,Chicago,355,Stormy,Tuesday
+2024-07-24,New York,543,Snowy,Wednesday
+2024-07-24,San Francisco,414,Stormy,Wednesday
+2024-07-24,Chicago,651,Cloudy,Wednesday
+2024-07-25,New York,540,Stormy,Thursday
+2024-07-25,San Francisco,838,Cloudy,Thursday
+2024-07-25,Chicago,649,Cloudy,Thursday
+2024-07-26,New York,1157,Sunny,Friday
+2024-07-26,San Francisco,525,Snowy,Friday
+2024-07-26,Chicago,744,Cloudy,Friday
+2024-07-27,New York,984,Rainy,Saturday
+2024-07-27,San Francisco,885,Cloudy,Saturday
+2024-07-27,Chicago,800,Cloudy,Saturday
+2024-07-28,New York,867,Rainy,Sunday
+2024-07-28,San Francisco,502,Stormy,Sunday
+2024-07-28,Chicago,829,Windy,Sunday
+2024-07-29,New York,990,Cloudy,Monday
+2024-07-29,San Francisco,403,Stormy,Monday
+2024-07-29,Chicago,701,Cloudy,Monday
+2024-07-30,New York,785,Rainy,Tuesday
+2024-07-30,San Francisco,453,Snowy,Tuesday
+2024-07-30,Chicago,694,Cloudy,Tuesday
+2024-07-31,New York,859,Windy,Wednesday
+2024-07-31,San Francisco,843,Sunny,Wednesday
+2024-07-31,Chicago,734,Cloudy,Wednesday
+2024-08-01,New York,1073,Cloudy,Thursday
+2024-08-01,San Francisco,630,Rainy,Thursday
+2024-08-01,Chicago,438,Snowy,Thursday
+2024-08-02,New York,962,Windy,Friday
+2024-08-02,San Francisco,665,Windy,Friday
+2024-08-02,Chicago,784,Sunny,Friday
+2024-08-03,New York,659,Snowy,Saturday
+2024-08-03,San Francisco,864,Windy,Saturday
+2024-08-03,Chicago,724,Rainy,Saturday
+2024-08-04,New York,1164,Windy,Sunday
+2024-08-04,San Francisco,1051,Sunny,Sunday
+2024-08-04,Chicago,721,Rainy,Sunday
+2024-08-05,New York,836,Rainy,Monday
+2024-08-05,San Francisco,820,Sunny,Monday
+2024-08-05,Chicago,322,Stormy,Monday
+2024-08-06,New York,823,Windy,Tuesday
+2024-08-06,San Francisco,630,Rainy,Tuesday
+2024-08-06,Chicago,701,Sunny,Tuesday
+2024-08-07,New York,516,Stormy,Wednesday
+2024-08-07,San Francisco,444,Snowy,Wednesday
+2024-08-07,Chicago,786,Sunny,Wednesday
+2024-08-08,New York,901,Windy,Thursday
+2024-08-08,San Francisco,379,Stormy,Thursday
+2024-08-08,Chicago,818,Sunny,Thursday
+2024-08-09,New York,905,Windy,Friday
+2024-08-09,San Francisco,749,Windy,Friday
+2024-08-09,Chicago,421,Snowy,Friday
+2024-08-10,New York,988,Rainy,Saturday
+2024-08-10,San Francisco,628,Snowy,Saturday
+2024-08-10,Chicago,824,Windy,Saturday
+2024-08-11,New York,558,Stormy,Sunday
+2024-08-11,San Francisco,892,Windy,Sunday
+2024-08-11,Chicago,650,Rainy,Sunday
+2024-08-12,New York,955,Windy,Monday
+2024-08-12,San Francisco,451,Snowy,Monday
+2024-08-12,Chicago,707,Cloudy,Monday
+2024-08-13,New York,464,Stormy,Tuesday
+2024-08-13,San Francisco,852,Cloudy,Tuesday
+2024-08-13,Chicago,728,Sunny,Tuesday
+2024-08-14,New York,598,Snowy,Wednesday
+2024-08-14,San Francisco,636,Rainy,Wednesday
+2024-08-14,Chicago,524,Rainy,Wednesday
+2024-08-15,New York,974,Windy,Thursday
+2024-08-15,San Francisco,683,Windy,Thursday
+2024-08-15,Chicago,738,Cloudy,Thursday
+2024-08-16,New York,1079,Sunny,Friday
+2024-08-16,San Francisco,857,Sunny,Friday
+2024-08-16,Chicago,691,Windy,Friday
+2024-08-17,New York,1163,Cloudy,Saturday
+2024-08-17,San Francisco,807,Rainy,Saturday
+2024-08-17,Chicago,911,Cloudy,Saturday
+2024-08-18,New York,905,Rainy,Sunday
+2024-08-18,San Francisco,886,Windy,Sunday
+2024-08-18,Chicago,612,Rainy,Sunday
+2024-08-19,New York,876,Rainy,Monday
+2024-08-19,San Francisco,780,Cloudy,Monday
+2024-08-19,Chicago,336,Stormy,Monday
+2024-08-20,New York,606,Snowy,Tuesday
+2024-08-20,San Francisco,662,Windy,Tuesday
+2024-08-20,Chicago,821,Sunny,Tuesday
+2024-08-21,New York,813,Rainy,Wednesday
+2024-08-21,San Francisco,718,Windy,Wednesday
+2024-08-21,Chicago,403,Snowy,Wednesday
+2024-08-22,New York,512,Stormy,Thursday
+2024-08-22,San Francisco,797,Sunny,Thursday
+2024-08-22,Chicago,738,Sunny,Thursday
+2024-08-23,New York,1164,Sunny,Friday
+2024-08-23,San Francisco,518,Snowy,Friday
+2024-08-23,Chicago,689,Windy,Friday
+2024-08-24,New York,1004,Windy,Saturday
+2024-08-24,San Francisco,571,Snowy,Saturday
+2024-08-24,Chicago,876,Sunny,Saturday
+2024-08-25,New York,750,Snowy,Sunday
+2024-08-25,San Francisco,868,Windy,Sunday
+2024-08-25,Chicago,549,Snowy,Sunday
+2024-08-26,New York,1076,Cloudy,Monday
+2024-08-26,San Francisco,423,Stormy,Monday
+2024-08-26,Chicago,352,Stormy,Monday
+2024-08-27,New York,614,Snowy,Tuesday
+2024-08-27,San Francisco,452,Snowy,Tuesday
+2024-08-27,Chicago,694,Cloudy,Tuesday
+2024-08-28,New York,1074,Sunny,Wednesday
+2024-08-28,San Francisco,914,Sunny,Wednesday
+2024-08-28,Chicago,549,Rainy,Wednesday
+2024-08-29,New York,862,Windy,Thursday
+2024-08-29,San Francisco,725,Windy,Thursday
+2024-08-29,Chicago,585,Windy,Thursday
+2024-08-30,New York,1035,Sunny,Friday
+2024-08-30,San Francisco,611,Rainy,Friday
+2024-08-30,Chicago,510,Rainy,Friday
+2024-08-31,New York,1126,Cloudy,Saturday
+2024-08-31,San Francisco,898,Cloudy,Saturday
+2024-08-31,Chicago,830,Windy,Saturday
+2024-09-01,New York,1114,Windy,Sunday
+2024-09-01,San Francisco,489,Stormy,Sunday
+2024-09-01,Chicago,992,Sunny,Sunday
+2024-09-02,New York,765,Rainy,Monday
+2024-09-02,San Francisco,795,Sunny,Monday
+2024-09-02,Chicago,424,Snowy,Monday
+2024-09-03,New York,866,Windy,Tuesday
+2024-09-03,San Francisco,783,Cloudy,Tuesday
+2024-09-03,Chicago,641,Windy,Tuesday
+2024-09-04,New York,836,Rainy,Wednesday
+2024-09-04,San Francisco,698,Windy,Wednesday
+2024-09-04,Chicago,447,Snowy,Wednesday
+2024-09-05,New York,981,Windy,Thursday
+2024-09-05,San Francisco,774,Cloudy,Thursday
+2024-09-05,Chicago,593,Windy,Thursday
+2024-09-06,New York,1037,Cloudy,Friday
+2024-09-06,San Francisco,961,Sunny,Friday
+2024-09-06,Chicago,616,Windy,Friday
+2024-09-07,New York,1086,Windy,Saturday
+2024-09-07,San Francisco,521,Snowy,Saturday
+2024-09-07,Chicago,622,Rainy,Saturday
+2024-09-08,New York,1188,Cloudy,Sunday
+2024-09-08,San Francisco,938,Cloudy,Sunday
+2024-09-08,Chicago,851,Cloudy,Sunday
+2024-09-09,New York,1000,Cloudy,Monday
+2024-09-09,San Francisco,839,Cloudy,Monday
+2024-09-09,Chicago,540,Rainy,Monday
+2024-09-10,New York,1034,Sunny,Tuesday
+2024-09-10,San Francisco,767,Windy,Tuesday
+2024-09-10,Chicago,750,Sunny,Tuesday
+2024-09-11,New York,610,Snowy,Wednesday
+2024-09-11,San Francisco,469,Snowy,Wednesday
+2024-09-11,Chicago,647,Windy,Wednesday
+2024-09-12,New York,516,Stormy,Thursday
+2024-09-12,San Francisco,715,Windy,Thursday
+2024-09-12,Chicago,430,Snowy,Thursday
+2024-09-13,New York,532,Stormy,Friday
+2024-09-13,San Francisco,734,Windy,Friday
+2024-09-13,Chicago,448,Snowy,Friday
+2024-09-14,New York,885,Rainy,Saturday
+2024-09-14,San Francisco,524,Stormy,Saturday
+2024-09-14,Chicago,389,Stormy,Saturday
+2024-09-15,New York,1207,Sunny,Sunday
+2024-09-15,San Francisco,1021,Cloudy,Sunday
+2024-09-15,Chicago,452,Stormy,Sunday
+2024-09-16,New York,1033,Sunny,Monday
+2024-09-16,San Francisco,489,Snowy,Monday
+2024-09-16,Chicago,746,Sunny,Monday
+2024-09-17,New York,807,Rainy,Tuesday
+2024-09-17,San Francisco,523,Snowy,Tuesday
+2024-09-17,Chicago,688,Windy,Tuesday
+2024-09-18,New York,566,Snowy,Wednesday
+2024-09-18,San Francisco,398,Stormy,Wednesday
+2024-09-18,Chicago,782,Sunny,Wednesday
+2024-09-19,New York,975,Cloudy,Thursday
+2024-09-19,San Francisco,690,Rainy,Thursday
+2024-09-19,Chicago,587,Rainy,Thursday
+2024-09-20,New York,859,Windy,Friday
+2024-09-20,San Francisco,600,Rainy,Friday
+2024-09-20,Chicago,702,Cloudy,Friday
+2024-09-21,New York,1267,Cloudy,Saturday
+2024-09-21,San Francisco,902,Windy,Saturday
+2024-09-21,Chicago,398,Stormy,Saturday
+2024-09-22,New York,626,Stormy,Sunday
+2024-09-22,San Francisco,1112,Sunny,Sunday
+2024-09-22,Chicago,790,Cloudy,Sunday
+2024-09-23,New York,579,Snowy,Monday
+2024-09-23,San Francisco,620,Rainy,Monday
+2024-09-23,Chicago,744,Sunny,Monday
+2024-09-24,New York,1060,Cloudy,Tuesday
+2024-09-24,San Francisco,679,Windy,Tuesday
+2024-09-24,Chicago,613,Rainy,Tuesday
+2024-09-25,New York,603,Snowy,Wednesday
+2024-09-25,San Francisco,893,Sunny,Wednesday
+2024-09-25,Chicago,616,Windy,Wednesday
+2024-09-26,New York,925,Windy,Thursday
+2024-09-26,San Francisco,688,Rainy,Thursday
+2024-09-26,Chicago,438,Snowy,Thursday
+2024-09-27,New York,912,Windy,Friday
+2024-09-27,San Francisco,415,Stormy,Friday
+2024-09-27,Chicago,626,Windy,Friday
+2024-09-28,New York,971,Rainy,Saturday
+2024-09-28,San Francisco,437,Stormy,Saturday
+2024-09-28,Chicago,451,Stormy,Saturday
+2024-09-29,New York,741,Snowy,Sunday
+2024-09-29,San Francisco,733,Rainy,Sunday
+2024-09-29,Chicago,695,Rainy,Sunday
+2024-09-30,New York,494,Stormy,Monday
+2024-09-30,San Francisco,399,Stormy,Monday
+2024-09-30,Chicago,328,Stormy,Monday
+2024-10-01,New York,614,Snowy,Tuesday
+2024-10-01,San Francisco,440,Snowy,Tuesday
+2024-10-01,Chicago,689,Windy,Tuesday
+2024-10-02,New York,514,Stormy,Wednesday
+2024-10-02,San Francisco,621,Rainy,Wednesday
+2024-10-02,Chicago,665,Windy,Wednesday
+2024-10-03,New York,829,Rainy,Thursday
+2024-10-03,San Francisco,507,Snowy,Thursday
+2024-10-03,Chicago,536,Rainy,Thursday
+2024-10-04,New York,783,Rainy,Friday
+2024-10-04,San Francisco,720,Cloudy,Friday
+2024-10-04,Chicago,334,Stormy,Friday
+2024-10-05,New York,1300,Sunny,Saturday
+2024-10-05,San Francisco,976,Cloudy,Saturday
+2024-10-05,Chicago,423,Stormy,Saturday
+2024-10-06,New York,883,Rainy,Sunday
+2024-10-06,San Francisco,632,Snowy,Sunday
+2024-10-06,Chicago,836,Sunny,Sunday
+2024-10-07,New York,999,Cloudy,Monday
+2024-10-07,San Francisco,795,Cloudy,Monday
+2024-10-07,Chicago,558,Rainy,Monday
+2024-10-08,New York,803,Rainy,Tuesday
+2024-10-08,San Francisco,730,Cloudy,Tuesday
+2024-10-08,Chicago,724,Cloudy,Tuesday
+2024-10-09,New York,752,Rainy,Wednesday
+2024-10-09,San Francisco,468,Snowy,Wednesday
+2024-10-09,Chicago,755,Cloudy,Wednesday
+2024-10-10,New York,1005,Sunny,Thursday
+2024-10-10,San Francisco,907,Sunny,Thursday
+2024-10-10,Chicago,323,Stormy,Thursday
+2024-10-11,New York,774,Rainy,Friday
+2024-10-11,San Francisco,763,Cloudy,Friday
+2024-10-11,Chicago,381,Snowy,Friday
+2024-10-12,New York,1046,Rainy,Saturday
+2024-10-12,San Francisco,514,Stormy,Saturday
+2024-10-12,Chicago,693,Windy,Saturday
+2024-10-13,New York,1270,Cloudy,Sunday
+2024-10-13,San Francisco,1000,Sunny,Sunday
+2024-10-13,Chicago,379,Stormy,Sunday
+2024-10-14,New York,990,Cloudy,Monday
+2024-10-14,San Francisco,892,Sunny,Monday
+2024-10-14,Chicago,835,Sunny,Monday
+2024-10-15,New York,752,Rainy,Tuesday
+2024-10-15,San Francisco,436,Snowy,Tuesday
+2024-10-15,Chicago,583,Rainy,Tuesday
+2024-10-16,New York,824,Windy,Wednesday
+2024-10-16,San Francisco,809,Sunny,Wednesday
+2024-10-16,Chicago,365,Stormy,Wednesday
+2024-10-17,New York,746,Rainy,Thursday
+2024-10-17,San Francisco,519,Snowy,Thursday
+2024-10-17,Chicago,533,Rainy,Thursday
+2024-10-18,New York,983,Cloudy,Friday
+2024-10-18,San Francisco,389,Stormy,Friday
+2024-10-18,Chicago,653,Cloudy,Friday
+2024-10-19,New York,1171,Windy,Saturday
+2024-10-19,San Francisco,506,Stormy,Saturday
+2024-10-19,Chicago,662,Rainy,Saturday
+2024-10-20,New York,589,Stormy,Sunday
+2024-10-20,San Francisco,836,Windy,Sunday
+2024-10-20,Chicago,512,Snowy,Sunday
+2024-10-21,New York,1140,Sunny,Monday
+2024-10-21,San Francisco,959,Sunny,Monday
+2024-10-21,Chicago,359,Stormy,Monday
+2024-10-22,New York,512,Stormy,Tuesday
+2024-10-22,San Francisco,685,Rainy,Tuesday
+2024-10-22,Chicago,707,Cloudy,Tuesday
+2024-10-23,New York,1077,Sunny,Wednesday
+2024-10-23,San Francisco,818,Cloudy,Wednesday
+2024-10-23,Chicago,342,Stormy,Wednesday
+2024-10-24,New York,647,Snowy,Thursday
+2024-10-24,San Francisco,603,Rainy,Thursday
+2024-10-24,Chicago,615,Rainy,Thursday
+2024-10-25,New York,843,Windy,Friday
+2024-10-25,San Francisco,748,Cloudy,Friday
+2024-10-25,Chicago,724,Sunny,Friday
+2024-10-26,New York,1039,Windy,Saturday
+2024-10-26,San Francisco,586,Snowy,Saturday
+2024-10-26,Chicago,492,Snowy,Saturday
+2024-10-27,New York,778,Snowy,Sunday
+2024-10-27,San Francisco,831,Rainy,Sunday
+2024-10-27,Chicago,695,Rainy,Sunday
+2024-10-28,New York,511,Stormy,Monday
+2024-10-28,San Francisco,703,Windy,Monday
+2024-10-28,Chicago,687,Cloudy,Monday
+2024-10-29,New York,526,Stormy,Tuesday
+2024-10-29,San Francisco,923,Sunny,Tuesday
+2024-10-29,Chicago,613,Windy,Tuesday
+2024-10-30,New York,595,Snowy,Wednesday
+2024-10-30,San Francisco,724,Cloudy,Wednesday
+2024-10-30,Chicago,439,Snowy,Wednesday
+2024-10-31,New York,917,Cloudy,Thursday
+2024-10-31,San Francisco,799,Cloudy,Thursday
+2024-10-31,Chicago,603,Rainy,Thursday
+2024-11-01,New York,783,Rainy,Friday
+2024-11-01,San Francisco,667,Windy,Friday
+2024-11-01,Chicago,436,Snowy,Friday
+2024-11-02,New York,768,Snowy,Saturday
+2024-11-02,San Francisco,706,Rainy,Saturday
+2024-11-02,Chicago,890,Cloudy,Saturday
+2024-11-03,New York,1411,Sunny,Sunday
+2024-11-03,San Francisco,434,Stormy,Sunday
+2024-11-03,Chicago,729,Windy,Sunday
+2024-11-04,New York,876,Windy,Monday
+2024-11-04,San Francisco,668,Windy,Monday
+2024-11-04,Chicago,592,Windy,Monday
+2024-11-05,New York,865,Rainy,Tuesday
+2024-11-05,San Francisco,779,Cloudy,Tuesday
+2024-11-05,Chicago,735,Sunny,Tuesday
+2024-11-06,New York,469,Stormy,Wednesday
+2024-11-06,San Francisco,382,Stormy,Wednesday
+2024-11-06,Chicago,570,Rainy,Wednesday
+2024-11-07,New York,1002,Cloudy,Thursday
+2024-11-07,San Francisco,816,Sunny,Thursday
+2024-11-07,Chicago,364,Stormy,Thursday
+2024-11-08,New York,601,Snowy,Friday
+2024-11-08,San Francisco,966,Sunny,Friday
+2024-11-08,Chicago,763,Sunny,Friday
+2024-11-09,New York,756,Snowy,Saturday
+2024-11-09,San Francisco,890,Windy,Saturday
+2024-11-09,Chicago,798,Cloudy,Saturday
+2024-11-10,New York,602,Stormy,Sunday
+2024-11-10,San Francisco,952,Cloudy,Sunday
+2024-11-10,Chicago,514,Snowy,Sunday
+2024-11-11,New York,1038,Sunny,Monday
+2024-11-11,San Francisco,387,Stormy,Monday
+2024-11-11,Chicago,643,Windy,Monday
+2024-11-12,New York,515,Stormy,Tuesday
+2024-11-12,San Francisco,695,Rainy,Tuesday
+2024-11-12,Chicago,729,Sunny,Tuesday
+2024-11-13,New York,537,Stormy,Wednesday
+2024-11-13,San Francisco,467,Snowy,Wednesday
+2024-11-13,Chicago,720,Cloudy,Wednesday
+2024-11-14,New York,497,Stormy,Thursday
+2024-11-14,San Francisco,437,Stormy,Thursday
+2024-11-14,Chicago,605,Windy,Thursday
+2024-11-15,New York,594,Snowy,Friday
+2024-11-15,San Francisco,808,Sunny,Friday
+2024-11-15,Chicago,837,Sunny,Friday
+2024-11-16,New York,881,Rainy,Saturday
+2024-11-16,San Francisco,466,Stormy,Saturday
+2024-11-16,Chicago,905,Cloudy,Saturday
+2024-11-17,New York,763,Snowy,Sunday
+2024-11-17,San Francisco,827,Rainy,Sunday
+2024-11-17,Chicago,675,Rainy,Sunday
+2024-11-18,New York,984,Windy,Monday
+2024-11-18,San Francisco,770,Windy,Monday
+2024-11-18,Chicago,453,Snowy,Monday
+2024-11-19,New York,1089,Sunny,Tuesday
+2024-11-19,San Francisco,830,Cloudy,Tuesday
+2024-11-19,Chicago,529,Rainy,Tuesday
+2024-11-20,New York,889,Windy,Wednesday
+2024-11-20,San Francisco,818,Sunny,Wednesday
+2024-11-20,Chicago,431,Snowy,Wednesday
+2024-11-21,New York,581,Snowy,Thursday
+2024-11-21,San Francisco,918,Sunny,Thursday
+2024-11-21,Chicago,419,Snowy,Thursday
+2024-11-22,New York,843,Rainy,Friday
+2024-11-22,San Francisco,811,Sunny,Friday
+2024-11-22,Chicago,451,Snowy,Friday
+2024-11-23,New York,568,Stormy,Saturday
+2024-11-23,San Francisco,979,Cloudy,Saturday
+2024-11-23,Chicago,675,Rainy,Saturday
+2024-11-24,New York,623,Stormy,Sunday
+2024-11-24,San Francisco,1097,Sunny,Sunday
+2024-11-24,Chicago,775,Cloudy,Sunday
+2024-11-25,New York,586,Snowy,Monday
+2024-11-25,San Francisco,367,Stormy,Monday
+2024-11-25,Chicago,610,Rainy,Monday
+2024-11-26,New York,1059,Sunny,Tuesday
+2024-11-26,San Francisco,870,Sunny,Tuesday
+2024-11-26,Chicago,789,Sunny,Tuesday
+2024-11-27,New York,825,Windy,Wednesday
+2024-11-27,San Francisco,902,Sunny,Wednesday
+2024-11-27,Chicago,441,Snowy,Wednesday
+2024-11-28,New York,833,Rainy,Thursday
+2024-11-28,San Francisco,439,Stormy,Thursday
+2024-11-28,Chicago,568,Rainy,Thursday
+2024-11-29,New York,787,Rainy,Friday
+2024-11-29,San Francisco,754,Windy,Friday
+2024-11-29,Chicago,408,Snowy,Friday
+2024-11-30,New York,1189,Sunny,Saturday
+2024-11-30,San Francisco,896,Windy,Saturday
+2024-11-30,Chicago,495,Snowy,Saturday
+2024-12-01,New York,1003,Rainy,Sunday
+2024-12-01,San Francisco,596,Snowy,Sunday
+2024-12-01,Chicago,552,Snowy,Sunday
+2024-12-02,New York,1008,Cloudy,Monday
+2024-12-02,San Francisco,650,Rainy,Monday
+2024-12-02,Chicago,734,Sunny,Monday
+2024-12-03,New York,910,Windy,Tuesday
+2024-12-03,San Francisco,821,Sunny,Tuesday
+2024-12-03,Chicago,675,Windy,Tuesday
+2024-12-04,New York,744,Rainy,Wednesday
+2024-12-04,San Francisco,470,Snowy,Wednesday
+2024-12-04,Chicago,368,Stormy,Wednesday
+2024-12-05,New York,1040,Cloudy,Thursday
+2024-12-05,San Francisco,716,Windy,Thursday
+2024-12-05,Chicago,636,Windy,Thursday
+2024-12-06,New York,1087,Cloudy,Friday
+2024-12-06,San Francisco,732,Windy,Friday
+2024-12-06,Chicago,663,Cloudy,Friday
+2024-12-07,New York,1081,Cloudy,Saturday
+2024-12-07,San Francisco,627,Snowy,Saturday
+2024-12-07,Chicago,822,Cloudy,Saturday
+2024-12-08,New York,980,Rainy,Sunday
+2024-12-08,San Francisco,1041,Cloudy,Sunday
+2024-12-08,Chicago,794,Windy,Sunday
+2024-12-09,New York,902,Windy,Monday
+2024-12-09,San Francisco,810,Cloudy,Monday
+2024-12-09,Chicago,454,Snowy,Monday
+2024-12-10,New York,735,Rainy,Tuesday
+2024-12-10,San Francisco,681,Windy,Tuesday
+2024-12-10,Chicago,772,Sunny,Tuesday
+2024-12-11,New York,568,Snowy,Wednesday
+2024-12-11,San Francisco,436,Snowy,Wednesday
+2024-12-11,Chicago,405,Snowy,Wednesday
+2024-12-12,New York,881,Windy,Thursday
+2024-12-12,San Francisco,722,Windy,Thursday
+2024-12-12,Chicago,672,Windy,Thursday
+2024-12-13,New York,902,Cloudy,Friday
+2024-12-13,San Francisco,863,Sunny,Friday
+2024-12-13,Chicago,451,Snowy,Friday
+2024-12-14,New York,624,Stormy,Saturday
+2024-12-14,San Francisco,822,Windy,Saturday
+2024-12-14,Chicago,844,Cloudy,Saturday
+2024-12-15,New York,1160,Cloudy,Sunday
+2024-12-15,San Francisco,878,Cloudy,Sunday
+2024-12-15,Chicago,426,Stormy,Sunday
+2024-12-16,New York,1068,Sunny,Monday
+2024-12-16,San Francisco,714,Windy,Monday
+2024-12-16,Chicago,612,Windy,Monday
+2024-12-17,New York,886,Windy,Tuesday
+2024-12-17,San Francisco,655,Rainy,Tuesday
+2024-12-17,Chicago,406,Snowy,Tuesday
+2024-12-18,New York,945,Cloudy,Wednesday
+2024-12-18,San Francisco,369,Stormy,Wednesday
+2024-12-18,Chicago,414,Snowy,Wednesday
+2024-12-19,New York,562,Snowy,Thursday
+2024-12-19,San Francisco,431,Stormy,Thursday
+2024-12-19,Chicago,339,Stormy,Thursday
+2024-12-20,New York,783,Rainy,Friday
+2024-12-20,San Francisco,372,Stormy,Friday
+2024-12-20,Chicago,427,Snowy,Friday
+2024-12-21,New York,659,Stormy,Saturday
+2024-12-21,San Francisco,606,Snowy,Saturday
+2024-12-21,Chicago,704,Rainy,Saturday
+2024-12-22,New York,1295,Cloudy,Sunday
+2024-12-22,San Francisco,1046,Sunny,Sunday
+2024-12-22,Chicago,386,Stormy,Sunday
+2024-12-23,New York,1001,Cloudy,Monday
+2024-12-23,San Francisco,887,Sunny,Monday
+2024-12-23,Chicago,416,Snowy,Monday
+2024-12-24,New York,544,Stormy,Tuesday
+2024-12-24,San Francisco,493,Snowy,Tuesday
+2024-12-24,Chicago,765,Cloudy,Tuesday
+2024-12-25,New York,641,Snowy,Wednesday
+2024-12-25,San Francisco,602,Rainy,Wednesday
+2024-12-25,Chicago,695,Cloudy,Wednesday
+2024-12-26,New York,571,Snowy,Thursday
+2024-12-26,San Francisco,383,Stormy,Thursday
+2024-12-26,Chicago,723,Sunny,Thursday
+2024-12-27,New York,514,Stormy,Friday
+2024-12-27,San Francisco,841,Sunny,Friday
+2024-12-27,Chicago,393,Snowy,Friday
+2024-12-28,New York,758,Snowy,Saturday
+2024-12-28,San Francisco,464,Stormy,Saturday
+2024-12-28,Chicago,869,Cloudy,Saturday
+2024-12-29,New York,746,Snowy,Sunday
+2024-12-29,San Francisco,938,Windy,Sunday
+2024-12-29,Chicago,690,Windy,Sunday
+2024-12-30,New York,746,Rainy,Monday
+2024-12-30,San Francisco,409,Stormy,Monday
+2024-12-30,Chicago,657,Cloudy,Monday
+2024-12-31,New York,1000,Cloudy,Tuesday
+2024-12-31,San Francisco,443,Snowy,Tuesday
+2024-12-31,Chicago,549,Rainy,Tuesday
+2025-01-01,New York,603,Snowy,Wednesday
+2025-01-01,San Francisco,635,Rainy,Wednesday
+2025-01-01,Chicago,577,Rainy,Wednesday
+2025-01-02,New York,1060,Cloudy,Thursday
+2025-01-02,San Francisco,482,Snowy,Thursday
+2025-01-02,Chicago,397,Snowy,Thursday
+2025-01-03,New York,532,Stormy,Friday
+2025-01-03,San Francisco,588,Rainy,Friday
+2025-01-03,Chicago,606,Rainy,Friday
+2025-01-04,New York,655,Snowy,Saturday
+2025-01-04,San Francisco,596,Snowy,Saturday
+2025-01-04,Chicago,552,Snowy,Saturday
+2025-01-05,New York,1400,Sunny,Sunday
+2025-01-05,San Francisco,695,Rainy,Sunday
+2025-01-05,Chicago,923,Cloudy,Sunday
+2025-01-06,New York,856,Rainy,Monday
+2025-01-06,San Francisco,788,Cloudy,Monday
+2025-01-06,Chicago,403,Snowy,Monday
+2025-01-07,New York,1190,Sunny,Tuesday
+2025-01-07,San Francisco,870,Sunny,Tuesday
+2025-01-07,Chicago,354,Stormy,Tuesday
+2025-01-08,New York,937,Windy,Wednesday
+2025-01-08,San Francisco,763,Cloudy,Wednesday
+2025-01-08,Chicago,749,Sunny,Wednesday
+2025-01-09,New York,645,Snowy,Thursday
+2025-01-09,San Francisco,731,Cloudy,Thursday
+2025-01-09,Chicago,593,Rainy,Thursday
+2025-01-10,New York,834,Windy,Friday
+2025-01-10,San Francisco,663,Windy,Friday
+2025-01-10,Chicago,331,Stormy,Friday
+2025-01-11,New York,664,Snowy,Saturday
+2025-01-11,San Francisco,568,Snowy,Saturday
+2025-01-11,Chicago,529,Snowy,Saturday
+2025-01-12,New York,1048,Windy,Sunday
+2025-01-12,San Francisco,1085,Sunny,Sunday
+2025-01-12,Chicago,829,Cloudy,Sunday
+2025-01-13,New York,947,Windy,Monday
+2025-01-13,San Francisco,881,Sunny,Monday
+2025-01-13,Chicago,530,Rainy,Monday
+2025-01-14,New York,808,Rainy,Tuesday
+2025-01-14,San Francisco,702,Windy,Tuesday
+2025-01-14,Chicago,754,Sunny,Tuesday
+2025-01-15,New York,947,Cloudy,Wednesday
+2025-01-15,San Francisco,876,Cloudy,Wednesday
+2025-01-15,Chicago,333,Stormy,Wednesday
+2025-01-16,New York,978,Windy,Thursday
+2025-01-16,San Francisco,426,Stormy,Thursday
+2025-01-16,Chicago,673,Windy,Thursday
+2025-01-17,New York,452,Stormy,Friday
+2025-01-17,San Francisco,508,Snowy,Friday
+2025-01-17,Chicago,643,Windy,Friday
+2025-01-18,New York,999,Rainy,Saturday
+2025-01-18,San Francisco,888,Windy,Saturday
+2025-01-18,Chicago,462,Snowy,Saturday
+2025-01-19,New York,707,Snowy,Sunday
+2025-01-19,San Francisco,551,Snowy,Sunday
+2025-01-19,Chicago,978,Sunny,Sunday
+2025-01-20,New York,753,Rainy,Monday
+2025-01-20,San Francisco,780,Windy,Monday
+2025-01-20,Chicago,838,Sunny,Monday
+2025-01-21,New York,935,Windy,Tuesday
+2025-01-21,San Francisco,789,Windy,Tuesday
+2025-01-21,Chicago,663,Windy,Tuesday
+2025-01-22,New York,634,Snowy,Wednesday
+2025-01-22,San Francisco,802,Sunny,Wednesday
+2025-01-22,Chicago,335,Stormy,Wednesday
+2025-01-23,New York,877,Rainy,Thursday
+2025-01-23,San Francisco,922,Sunny,Thursday
+2025-01-23,Chicago,778,Sunny,Thursday
+2025-01-24,New York,784,Rainy,Friday
+2025-01-24,San Francisco,414,Stormy,Friday
+2025-01-24,Chicago,562,Rainy,Friday
+2025-01-25,New York,685,Snowy,Saturday
+2025-01-25,San Francisco,929,Cloudy,Saturday
+2025-01-25,Chicago,977,Sunny,Saturday
+2025-01-26,New York,1245,Cloudy,Sunday
+2025-01-26,San Francisco,804,Rainy,Sunday
+2025-01-26,Chicago,975,Sunny,Sunday
+2025-01-27,New York,817,Rainy,Monday
+2025-01-27,San Francisco,369,Stormy,Monday
+2025-01-27,Chicago,745,Cloudy,Monday
+2025-01-28,New York,1130,Sunny,Tuesday
+2025-01-28,San Francisco,432,Stormy,Tuesday
+2025-01-28,Chicago,693,Sunny,Tuesday
+2025-01-29,New York,851,Windy,Wednesday
+2025-01-29,San Francisco,770,Windy,Wednesday
+2025-01-29,Chicago,663,Windy,Wednesday
+2025-01-30,New York,829,Windy,Thursday
+2025-01-30,San Francisco,408,Stormy,Thursday
+2025-01-30,Chicago,845,Sunny,Thursday
+2025-01-31,New York,1090,Cloudy,Friday
+2025-01-31,San Francisco,490,Snowy,Friday
+2025-01-31,Chicago,699,Sunny,Friday
+2025-02-01,New York,540,Stormy,Saturday
+2025-02-01,San Francisco,1045,Cloudy,Saturday
+2025-02-01,Chicago,683,Rainy,Saturday
+2025-02-02,New York,1161,Windy,Sunday
+2025-02-02,San Francisco,862,Windy,Sunday
+2025-02-02,Chicago,547,Snowy,Sunday
+2025-02-03,New York,986,Windy,Monday
+2025-02-03,San Francisco,577,Rainy,Monday
+2025-02-03,Chicago,716,Sunny,Monday
+2025-02-04,New York,476,Stormy,Tuesday
+2025-02-04,San Francisco,849,Cloudy,Tuesday
+2025-02-04,Chicago,741,Cloudy,Tuesday
+2025-02-05,New York,932,Windy,Wednesday
+2025-02-05,San Francisco,747,Windy,Wednesday
+2025-02-05,Chicago,763,Sunny,Wednesday
+2025-02-06,New York,542,Stormy,Thursday
+2025-02-06,San Francisco,448,Snowy,Thursday
+2025-02-06,Chicago,524,Rainy,Thursday
+2025-02-07,New York,647,Snowy,Friday
+2025-02-07,San Francisco,714,Windy,Friday
+2025-02-07,Chicago,649,Windy,Friday
+2025-02-08,New York,1002,Rainy,Saturday
+2025-02-08,San Francisco,809,Windy,Saturday
+2025-02-08,Chicago,483,Snowy,Saturday
+2025-02-09,New York,1299,Cloudy,Sunday
+2025-02-09,San Francisco,747,Rainy,Sunday
+2025-02-09,Chicago,444,Stormy,Sunday
+2025-02-10,New York,455,Stormy,Monday
+2025-02-10,San Francisco,432,Snowy,Monday
+2025-02-10,Chicago,612,Rainy,Monday
+2025-02-11,New York,920,Cloudy,Tuesday
+2025-02-11,San Francisco,649,Rainy,Tuesday
+2025-02-11,Chicago,507,Rainy,Tuesday
+2025-02-12,New York,1098,Cloudy,Wednesday
+2025-02-12,San Francisco,745,Cloudy,Wednesday
+2025-02-12,Chicago,357,Stormy,Wednesday
+2025-02-13,New York,826,Rainy,Thursday
+2025-02-13,San Francisco,375,Stormy,Thursday
+2025-02-13,Chicago,660,Windy,Thursday
+2025-02-14,New York,503,Stormy,Friday
+2025-02-14,San Francisco,438,Stormy,Friday
+2025-02-14,Chicago,652,Cloudy,Friday
+2025-02-15,New York,561,Stormy,Saturday
+2025-02-15,San Francisco,1072,Sunny,Saturday
+2025-02-15,Chicago,459,Stormy,Saturday
+2025-02-16,New York,552,Stormy,Sunday
+2025-02-16,San Francisco,919,Cloudy,Sunday
+2025-02-16,Chicago,821,Cloudy,Sunday
+2025-02-17,New York,862,Windy,Monday
+2025-02-17,San Francisco,457,Snowy,Monday
+2025-02-17,Chicago,775,Sunny,Monday
+2025-02-18,New York,940,Windy,Tuesday
+2025-02-18,San Francisco,373,Stormy,Tuesday
+2025-02-18,Chicago,347,Stormy,Tuesday
+2025-02-19,New York,928,Windy,Wednesday
+2025-02-19,San Francisco,633,Rainy,Wednesday
+2025-02-19,Chicago,525,Rainy,Wednesday
+2025-02-20,New York,1156,Sunny,Thursday
+2025-02-20,San Francisco,755,Cloudy,Thursday
+2025-02-20,Chicago,704,Cloudy,Thursday
+2025-02-21,New York,1202,Sunny,Friday
+2025-02-21,San Francisco,787,Windy,Friday
+2025-02-21,Chicago,720,Cloudy,Friday
+2025-02-22,New York,1289,Cloudy,Saturday
+2025-02-22,San Francisco,790,Rainy,Saturday
+2025-02-22,Chicago,725,Rainy,Saturday
+2025-02-23,New York,1176,Windy,Sunday
+2025-02-23,San Francisco,906,Windy,Sunday
+2025-02-23,Chicago,828,Windy,Sunday
+2025-02-24,New York,609,Snowy,Monday
+2025-02-24,San Francisco,925,Sunny,Monday
+2025-02-24,Chicago,643,Windy,Monday
+2025-02-25,New York,1017,Cloudy,Tuesday
+2025-02-25,San Francisco,859,Cloudy,Tuesday
+2025-02-25,Chicago,370,Stormy,Tuesday
+2025-02-26,New York,605,Snowy,Wednesday
+2025-02-26,San Francisco,513,Snowy,Wednesday
+2025-02-26,Chicago,567,Rainy,Wednesday
+2025-02-27,New York,450,Stormy,Thursday
+2025-02-27,San Francisco,817,Cloudy,Thursday
+2025-02-27,Chicago,405,Snowy,Thursday
+2025-02-28,New York,1043,Sunny,Friday
+2025-02-28,San Francisco,685,Rainy,Friday
+2025-02-28,Chicago,553,Rainy,Friday
+2025-03-01,New York,1024,Rainy,Saturday
+2025-03-01,San Francisco,815,Rainy,Saturday
+2025-03-01,Chicago,971,Sunny,Saturday
+2025-03-02,New York,1415,Sunny,Sunday
+2025-03-02,San Francisco,722,Rainy,Sunday
+2025-03-02,Chicago,417,Stormy,Sunday
+2025-03-03,New York,981,Windy,Monday
+2025-03-03,San Francisco,362,Stormy,Monday
+2025-03-03,Chicago,692,Windy,Monday
+2025-03-04,New York,640,Snowy,Tuesday
+2025-03-04,San Francisco,668,Windy,Tuesday
+2025-03-04,Chicago,792,Sunny,Tuesday
+2025-03-05,New York,920,Windy,Wednesday
+2025-03-05,San Francisco,413,Stormy,Wednesday
+2025-03-05,Chicago,612,Windy,Wednesday
+2025-03-06,New York,487,Stormy,Thursday
+2025-03-06,San Francisco,715,Windy,Thursday
+2025-03-06,Chicago,440,Snowy,Thursday
+2025-03-07,New York,838,Windy,Friday
+2025-03-07,San Francisco,493,Snowy,Friday
+2025-03-07,Chicago,456,Snowy,Friday
+2025-03-08,New York,1328,Sunny,Saturday
+2025-03-08,San Francisco,862,Windy,Saturday
+2025-03-08,Chicago,498,Snowy,Saturday
+2025-03-09,New York,1159,Windy,Sunday
+2025-03-09,San Francisco,1057,Sunny,Sunday
+2025-03-09,Chicago,875,Sunny,Sunday
+2025-03-10,New York,934,Windy,Monday
+2025-03-10,San Francisco,824,Sunny,Monday
+2025-03-10,Chicago,363,Stormy,Monday
+2025-03-11,New York,556,Snowy,Tuesday
+2025-03-11,San Francisco,787,Windy,Tuesday
+2025-03-11,Chicago,416,Snowy,Tuesday
+2025-03-12,New York,854,Rainy,Wednesday
+2025-03-12,San Francisco,751,Cloudy,Wednesday
+2025-03-12,Chicago,583,Windy,Wednesday
+2025-03-13,New York,1129,Sunny,Thursday
+2025-03-13,San Francisco,687,Windy,Thursday
+2025-03-13,Chicago,575,Rainy,Thursday
+2025-03-14,New York,736,Rainy,Friday
+2025-03-14,San Francisco,917,Sunny,Friday
+2025-03-14,Chicago,443,Snowy,Friday
+2025-03-15,New York,705,Snowy,Saturday
+2025-03-15,San Francisco,867,Cloudy,Saturday
+2025-03-15,Chicago,703,Rainy,Saturday
+2025-03-16,New York,1107,Cloudy,Sunday
+2025-03-16,San Francisco,937,Windy,Sunday
+2025-03-16,Chicago,804,Windy,Sunday
+2025-03-17,New York,1048,Cloudy,Monday
+2025-03-17,San Francisco,951,Sunny,Monday
+2025-03-17,Chicago,788,Sunny,Monday
+2025-03-18,New York,830,Rainy,Tuesday
+2025-03-18,San Francisco,661,Rainy,Tuesday
+2025-03-18,Chicago,413,Snowy,Tuesday
+2025-03-19,New York,904,Cloudy,Wednesday
+2025-03-19,San Francisco,407,Stormy,Wednesday
+2025-03-19,Chicago,420,Snowy,Wednesday
+2025-03-20,New York,623,Snowy,Thursday
+2025-03-20,San Francisco,385,Stormy,Thursday
+2025-03-20,Chicago,707,Cloudy,Thursday
+2025-03-21,New York,978,Cloudy,Friday
+2025-03-21,San Francisco,680,Windy,Friday
+2025-03-21,Chicago,376,Stormy,Friday
+2025-03-22,New York,997,Windy,Saturday
+2025-03-22,San Francisco,619,Snowy,Saturday
+2025-03-22,Chicago,867,Sunny,Saturday
+2025-03-23,New York,986,Rainy,Sunday
+2025-03-23,San Francisco,588,Snowy,Sunday
+2025-03-23,Chicago,848,Cloudy,Sunday
+2025-03-24,New York,1144,Sunny,Monday
+2025-03-24,San Francisco,391,Stormy,Monday
+2025-03-24,Chicago,331,Stormy,Monday
+2025-03-25,New York,454,Stormy,Tuesday
+2025-03-25,San Francisco,817,Cloudy,Tuesday
+2025-03-25,Chicago,817,Sunny,Tuesday
+2025-03-26,New York,1052,Cloudy,Wednesday
+2025-03-26,San Francisco,681,Windy,Wednesday
+2025-03-26,Chicago,687,Cloudy,Wednesday
+2025-03-27,New York,1060,Cloudy,Thursday
+2025-03-27,San Francisco,581,Rainy,Thursday
+2025-03-27,Chicago,511,Rainy,Thursday
+2025-03-28,New York,873,Windy,Friday
+2025-03-28,San Francisco,944,Sunny,Friday
+2025-03-28,Chicago,800,Sunny,Friday
+2025-03-29,New York,1099,Cloudy,Saturday
+2025-03-29,San Francisco,889,Windy,Saturday
+2025-03-29,Chicago,625,Rainy,Saturday
+2025-03-30,New York,1195,Sunny,Sunday
+2025-03-30,San Francisco,969,Cloudy,Sunday
+2025-03-30,Chicago,955,Sunny,Sunday
+2025-03-31,New York,866,Windy,Monday
+2025-03-31,San Francisco,749,Cloudy,Monday
+2025-03-31,Chicago,745,Sunny,Monday
+2025-04-01,New York,932,Cloudy,Tuesday
+2025-04-01,San Francisco,526,Snowy,Tuesday
+2025-04-01,Chicago,794,Sunny,Tuesday
+2025-04-02,New York,469,Stormy,Wednesday
+2025-04-02,San Francisco,952,Sunny,Wednesday
+2025-04-02,Chicago,724,Sunny,Wednesday
+2025-04-03,New York,904,Windy,Thursday
+2025-04-03,San Francisco,389,Stormy,Thursday
+2025-04-03,Chicago,638,Cloudy,Thursday
+2025-04-04,New York,506,Stormy,Friday
+2025-04-04,San Francisco,765,Cloudy,Friday
+2025-04-04,Chicago,722,Sunny,Friday
+2025-04-05,New York,1017,Windy,Saturday
+2025-04-05,San Francisco,901,Windy,Saturday
+2025-04-05,Chicago,807,Windy,Saturday
+2025-04-06,New York,1016,Windy,Sunday
+2025-04-06,San Francisco,887,Cloudy,Sunday
+2025-04-06,Chicago,417,Stormy,Sunday
+2025-04-07,New York,775,Rainy,Monday
+2025-04-07,San Francisco,487,Snowy,Monday
+2025-04-07,Chicago,383,Snowy,Monday
+2025-04-08,New York,783,Rainy,Tuesday
+2025-04-08,San Francisco,694,Windy,Tuesday
+2025-04-08,Chicago,356,Stormy,Tuesday
+2025-04-09,New York,659,Snowy,Wednesday
+2025-04-09,San Francisco,920,Sunny,Wednesday
+2025-04-09,Chicago,436,Snowy,Wednesday
+2025-04-10,New York,896,Windy,Thursday
+2025-04-10,San Francisco,654,Windy,Thursday
+2025-04-10,Chicago,671,Windy,Thursday
+2025-04-11,New York,585,Snowy,Friday
+2025-04-11,San Francisco,828,Cloudy,Friday
+2025-04-11,Chicago,678,Cloudy,Friday
+2025-04-12,New York,663,Snowy,Saturday
+2025-04-12,San Francisco,561,Snowy,Saturday
+2025-04-12,Chicago,947,Sunny,Saturday
+2025-04-13,New York,609,Stormy,Sunday
+2025-04-13,San Francisco,480,Stormy,Sunday
+2025-04-13,Chicago,859,Cloudy,Sunday
+2025-04-14,New York,506,Stormy,Monday
+2025-04-14,San Francisco,431,Stormy,Monday
+2025-04-14,Chicago,749,Cloudy,Monday
+2025-04-15,New York,629,Snowy,Tuesday
+2025-04-15,San Francisco,398,Stormy,Tuesday
+2025-04-15,Chicago,379,Snowy,Tuesday
+2025-04-16,New York,764,Rainy,Wednesday
+2025-04-16,San Francisco,850,Cloudy,Wednesday
+2025-04-16,Chicago,604,Rainy,Wednesday
+2025-04-17,New York,991,Cloudy,Thursday
+2025-04-17,San Francisco,382,Stormy,Thursday
+2025-04-17,Chicago,818,Sunny,Thursday
+2025-04-18,New York,452,Stormy,Friday
+2025-04-18,San Francisco,836,Cloudy,Friday
+2025-04-18,Chicago,422,Snowy,Friday
+2025-04-19,New York,1212,Cloudy,Saturday
+2025-04-19,San Francisco,880,Windy,Saturday
+2025-04-19,Chicago,411,Stormy,Saturday
+2025-04-20,New York,598,Stormy,Sunday
+2025-04-20,San Francisco,837,Rainy,Sunday
+2025-04-20,Chicago,545,Snowy,Sunday
+2025-04-21,New York,875,Rainy,Monday
+2025-04-21,San Francisco,614,Rainy,Monday
+2025-04-21,Chicago,702,Cloudy,Monday
+2025-04-22,New York,572,Snowy,Tuesday
+2025-04-22,San Francisco,676,Rainy,Tuesday
+2025-04-22,Chicago,604,Rainy,Tuesday
+2025-04-23,New York,816,Windy,Wednesday
+2025-04-23,San Francisco,511,Snowy,Wednesday
+2025-04-23,Chicago,543,Rainy,Wednesday
+2025-04-24,New York,968,Windy,Thursday
+2025-04-24,San Francisco,607,Rainy,Thursday
+2025-04-24,Chicago,426,Snowy,Thursday
+2025-04-25,New York,966,Windy,Friday
+2025-04-25,San Francisco,517,Snowy,Friday
+2025-04-25,Chicago,786,Sunny,Friday
+2025-04-26,New York,1018,Windy,Saturday
+2025-04-26,San Francisco,1036,Cloudy,Saturday
+2025-04-26,Chicago,425,Stormy,Saturday
+2025-04-27,New York,1191,Sunny,Sunday
+2025-04-27,San Francisco,1122,Sunny,Sunday
+2025-04-27,Chicago,454,Snowy,Sunday
+2025-04-28,New York,1052,Cloudy,Monday
+2025-04-28,San Francisco,411,Stormy,Monday
+2025-04-28,Chicago,639,Cloudy,Monday
+2025-04-29,New York,1066,Cloudy,Tuesday
+2025-04-29,San Francisco,368,Stormy,Tuesday
+2025-04-29,Chicago,576,Rainy,Tuesday
+2025-04-30,New York,603,Snowy,Wednesday
+2025-04-30,San Francisco,504,Snowy,Wednesday
+2025-04-30,Chicago,603,Rainy,Wednesday
+2025-05-01,New York,1152,Sunny,Thursday
+2025-05-01,San Francisco,647,Rainy,Thursday
+2025-05-01,Chicago,718,Sunny,Thursday
+2025-05-02,New York,904,Windy,Friday
+2025-05-02,San Francisco,708,Windy,Friday
+2025-05-02,Chicago,514,Rainy,Friday
+2025-05-03,New York,724,Snowy,Saturday
+2025-05-03,San Francisco,836,Windy,Saturday
+2025-05-03,Chicago,723,Windy,Saturday
+2025-05-04,New York,790,Snowy,Sunday
+2025-05-04,San Francisco,987,Cloudy,Sunday
+2025-05-04,Chicago,696,Windy,Sunday
+2025-05-05,New York,649,Snowy,Monday
+2025-05-05,San Francisco,414,Stormy,Monday
+2025-05-05,Chicago,336,Stormy,Monday
+2025-05-06,New York,1085,Cloudy,Tuesday
+2025-05-06,San Francisco,852,Sunny,Tuesday
+2025-05-06,Chicago,633,Cloudy,Tuesday
+2025-05-07,New York,972,Windy,Wednesday
+2025-05-07,San Francisco,789,Cloudy,Wednesday
+2025-05-07,Chicago,635,Cloudy,Wednesday
+2025-05-08,New York,1035,Sunny,Thursday
+2025-05-08,San Francisco,716,Windy,Thursday
+2025-05-08,Chicago,578,Rainy,Thursday
+2025-05-09,New York,969,Windy,Friday
+2025-05-09,San Francisco,520,Snowy,Friday
+2025-05-09,Chicago,319,Stormy,Friday
+2025-05-10,New York,599,Stormy,Saturday
+2025-05-10,San Francisco,828,Rainy,Saturday
+2025-05-10,Chicago,983,Sunny,Saturday
+2025-05-11,New York,581,Stormy,Sunday
+2025-05-11,San Francisco,886,Cloudy,Sunday
+2025-05-11,Chicago,419,Stormy,Sunday
+2025-05-12,New York,524,Stormy,Monday
+2025-05-12,San Francisco,753,Windy,Monday
+2025-05-12,Chicago,389,Snowy,Monday
+2025-05-13,New York,901,Windy,Tuesday
+2025-05-13,San Francisco,793,Sunny,Tuesday
+2025-05-13,Chicago,698,Cloudy,Tuesday
+2025-05-14,New York,991,Cloudy,Wednesday
+2025-05-14,San Francisco,430,Stormy,Wednesday
+2025-05-14,Chicago,560,Rainy,Wednesday
+2025-05-15,New York,562,Snowy,Thursday
+2025-05-15,San Francisco,516,Snowy,Thursday
+2025-05-15,Chicago,718,Cloudy,Thursday
+2025-05-16,New York,963,Windy,Friday
+2025-05-16,San Francisco,703,Rainy,Friday
+2025-05-16,Chicago,723,Cloudy,Friday
+2025-05-17,New York,1371,Sunny,Saturday
+2025-05-17,San Francisco,956,Cloudy,Saturday
+2025-05-17,Chicago,515,Snowy,Saturday
+2025-05-18,New York,791,Snowy,Sunday
+2025-05-18,San Francisco,950,Windy,Sunday
+2025-05-18,Chicago,458,Stormy,Sunday
+2025-05-19,New York,641,Snowy,Monday
+2025-05-19,San Francisco,715,Windy,Monday
+2025-05-19,Chicago,743,Cloudy,Monday
+2025-05-20,New York,1007,Cloudy,Tuesday
+2025-05-20,San Francisco,374,Stormy,Tuesday
+2025-05-20,Chicago,600,Rainy,Tuesday
+2025-05-21,New York,643,Snowy,Wednesday
+2025-05-21,San Francisco,886,Sunny,Wednesday
+2025-05-21,Chicago,377,Stormy,Wednesday
+2025-05-22,New York,550,Snowy,Thursday
+2025-05-22,San Francisco,793,Cloudy,Thursday
+2025-05-22,Chicago,607,Rainy,Thursday
+2025-05-23,New York,491,Stormy,Friday
+2025-05-23,San Francisco,805,Sunny,Friday
+2025-05-23,Chicago,738,Sunny,Friday
+2025-05-24,New York,991,Rainy,Saturday
+2025-05-24,San Francisco,732,Rainy,Saturday
+2025-05-24,Chicago,697,Windy,Saturday
+2025-05-25,New York,1120,Cloudy,Sunday
+2025-05-25,San Francisco,1035,Cloudy,Sunday
+2025-05-25,Chicago,912,Cloudy,Sunday
+2025-05-26,New York,544,Stormy,Monday
+2025-05-26,San Francisco,627,Rainy,Monday
+2025-05-26,Chicago,522,Rainy,Monday
+2025-05-27,New York,893,Windy,Tuesday
+2025-05-27,San Francisco,694,Windy,Tuesday
+2025-05-27,Chicago,340,Stormy,Tuesday
+2025-05-28,New York,956,Cloudy,Wednesday
+2025-05-28,San Francisco,868,Sunny,Wednesday
+2025-05-28,Chicago,756,Sunny,Wednesday
+2025-05-29,New York,616,Snowy,Thursday
+2025-05-29,San Francisco,772,Cloudy,Thursday
+2025-05-29,Chicago,801,Sunny,Thursday
+2025-05-30,New York,504,Stormy,Friday
+2025-05-30,San Francisco,789,Windy,Friday
+2025-05-30,Chicago,591,Rainy,Friday
+2025-05-31,New York,1172,Cloudy,Saturday
+2025-05-31,San Francisco,468,Stormy,Saturday
+2025-05-31,Chicago,409,Stormy,Saturday
+2025-06-01,New York,1044,Windy,Sunday
+2025-06-01,San Francisco,804,Rainy,Sunday
+2025-06-01,Chicago,819,Windy,Sunday
+2025-06-02,New York,1071,Cloudy,Monday
+2025-06-02,San Francisco,757,Cloudy,Monday
+2025-06-02,Chicago,660,Windy,Monday
+2025-06-03,New York,987,Windy,Tuesday
+2025-06-03,San Francisco,843,Sunny,Tuesday
+2025-06-03,Chicago,346,Stormy,Tuesday
+2025-06-04,New York,585,Snowy,Wednesday
+2025-06-04,San Francisco,781,Windy,Wednesday
+2025-06-04,Chicago,719,Sunny,Wednesday
+2025-06-05,New York,538,Stormy,Thursday
+2025-06-05,San Francisco,718,Windy,Thursday
+2025-06-05,Chicago,681,Windy,Thursday
+2025-06-06,New York,464,Stormy,Friday
+2025-06-06,San Francisco,448,Snowy,Friday
+2025-06-06,Chicago,336,Stormy,Friday
+2025-06-07,New York,1177,Cloudy,Saturday
+2025-06-07,San Francisco,977,Sunny,Saturday
+2025-06-07,Chicago,492,Snowy,Saturday
+2025-06-08,New York,976,Rainy,Sunday
+2025-06-08,San Francisco,739,Rainy,Sunday
+2025-06-08,Chicago,454,Stormy,Sunday
+2025-06-09,New York,902,Windy,Monday
+2025-06-09,San Francisco,521,Snowy,Monday
+2025-06-09,Chicago,370,Stormy,Monday
+2025-06-10,New York,974,Cloudy,Tuesday
+2025-06-10,San Francisco,946,Sunny,Tuesday
+2025-06-10,Chicago,507,Rainy,Tuesday
+2025-06-11,New York,913,Windy,Wednesday
+2025-06-11,San Francisco,374,Stormy,Wednesday
+2025-06-11,Chicago,680,Cloudy,Wednesday
+2025-06-12,New York,1024,Sunny,Thursday
+2025-06-12,San Francisco,895,Sunny,Thursday
+2025-06-12,Chicago,369,Stormy,Thursday
+2025-06-13,New York,971,Cloudy,Friday
+2025-06-13,San Francisco,895,Sunny,Friday
+2025-06-13,Chicago,354,Stormy,Friday
+2025-06-14,New York,1181,Windy,Saturday
+2025-06-14,San Francisco,548,Snowy,Saturday
+2025-06-14,Chicago,748,Windy,Saturday
+2025-06-15,New York,1053,Rainy,Sunday
+2025-06-15,San Francisco,853,Windy,Sunday
+2025-06-15,Chicago,382,Stormy,Sunday
+2025-06-16,New York,955,Windy,Monday
+2025-06-16,San Francisco,681,Rainy,Monday
+2025-06-16,Chicago,384,Snowy,Monday
+2025-06-17,New York,1188,Sunny,Tuesday
+2025-06-17,San Francisco,780,Cloudy,Tuesday
+2025-06-17,Chicago,610,Rainy,Tuesday
+2025-06-18,New York,586,Snowy,Wednesday
+2025-06-18,San Francisco,598,Rainy,Wednesday
+2025-06-18,Chicago,761,Sunny,Wednesday
+2025-06-19,New York,1046,Sunny,Thursday
+2025-06-19,San Francisco,691,Windy,Thursday
+2025-06-19,Chicago,749,Cloudy,Thursday
+2025-06-20,New York,1081,Cloudy,Friday
+2025-06-20,San Francisco,680,Windy,Friday
+2025-06-20,Chicago,394,Snowy,Friday
+2025-06-21,New York,1309,Cloudy,Saturday
+2025-06-21,San Francisco,884,Cloudy,Saturday
+2025-06-21,Chicago,413,Stormy,Saturday
+2025-06-22,New York,750,Snowy,Sunday
+2025-06-22,San Francisco,977,Cloudy,Sunday
+2025-06-22,Chicago,845,Cloudy,Sunday
+2025-06-23,New York,926,Windy,Monday
+2025-06-23,San Francisco,507,Snowy,Monday
+2025-06-23,Chicago,664,Windy,Monday
+2025-06-24,New York,825,Rainy,Tuesday
+2025-06-24,San Francisco,481,Snowy,Tuesday
+2025-06-24,Chicago,428,Snowy,Tuesday
+2025-06-25,New York,781,Rainy,Wednesday
+2025-06-25,San Francisco,418,Stormy,Wednesday
+2025-06-25,Chicago,766,Cloudy,Wednesday
+2025-06-26,New York,957,Cloudy,Thursday
+2025-06-26,San Francisco,854,Sunny,Thursday
+2025-06-26,Chicago,703,Cloudy,Thursday
+2025-06-27,New York,940,Windy,Friday
+2025-06-27,San Francisco,685,Windy,Friday
+2025-06-27,Chicago,349,Stormy,Friday
+2025-06-28,New York,1335,Sunny,Saturday
+2025-06-28,San Francisco,791,Rainy,Saturday
+2025-06-28,Chicago,647,Rainy,Saturday
+2025-06-29,New York,1124,Windy,Sunday
+2025-06-29,San Francisco,865,Cloudy,Sunday
+2025-06-29,Chicago,882,Sunny,Sunday
+2025-06-30,New York,910,Cloudy,Monday
+2025-06-30,San Francisco,727,Windy,Monday
+2025-06-30,Chicago,328,Stormy,Monday
